@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+pandas-profiling
+scikit-learn
+seaborn
+statsmodels
+ipykernel
+notebook
+sweetviz
